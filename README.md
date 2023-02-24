@@ -1,2 +1,2 @@
 # Neurofuzzy 
-### Homewors and Practices 
+### Homeworks and Practices 
