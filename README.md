@@ -19,7 +19,7 @@
 </ol>
 <h2>Results:</h2>
 <div style="text-align: center;">  
-  <img src="https://github.com/JoseEmmanuelVG/Neurofuzzy/blob/main/Result%20Images/P1_I1.png" style="width: 40%; height: auto;">
+  <img src="https://github.com/JoseEmmanuelVG/Neurofuzzy/blob/main/Result%20Images/P1_I1.png" style="width: 43%; height: auto;">
   <img src="https://github.com/JoseEmmanuelVG/Neurofuzzy/blob/main/Result%20Images/P1_I2.png" style="width: 40%; height: auto;">
 </div>
 
@@ -40,7 +40,7 @@
 </ol>
 <h2>Results:</h2>
 <div style="text-align: center;">  
-  <img src="https://github.com/JoseEmmanuelVG/Neurofuzzy/blob/main/Result%20Images/P2_I1.png" style="width: 40%; height: auto;">
+  <img src="https://github.com/JoseEmmanuelVG/Neurofuzzy/blob/main/Result%20Images/P2_I1.png" style="width: 90%; height: auto;">
 </div>
 
 
