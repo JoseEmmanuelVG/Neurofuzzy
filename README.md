@@ -1,47 +1,45 @@
-# Neurofuzzy 
-### Homeworks and Practices 
+# Neurofuzzy Homeworks and Practices 
+Click on the link of the practice you wish to view and browse for the code and simulation in the file folder as indicated in the index below
 
-## Practice 1.
-### Discrete and continuous membership functions
+- ## [P1: Discrete and continuous membership functions](docs/P1.md)
 
-<h2>Objective:</h2>
+<h3>Objective:</h3>
 <p>The objective of this project is to develop a code that can generate and trace membership functions based on specified parameters, considering their main characteristics.</p>
-<h2>Development:</h2>
-<ol>
-  <li>Analyze the main characteristics of the functions.</li>
-  <li>Define the necessary steps to generate the membership functions.</li>
-  <li>Establish conditions for each parameter to meet the specifications.</li>
-  <li>Design a code in the "m" language to represent the functions separately.</li>
-  <li>Display the results and compare them with theoretical knowledge.</li>
-  <li>Combine the different diagrams to fulfill the request.</li>
-  <li>Analyze the results and identify the characteristics studied.</li>
-  <li>Draw conclusions by comparing the results with the main objective.</li>
-</ol>
-<h2>Results:</h2>
-<div style="text-align: center;">  
-  <img src="https://github.com/JoseEmmanuelVG/Neurofuzzy/blob/main/Result%20Images/P1_I1.png" style="width: 43%; height: auto;">
-  <img src="https://github.com/JoseEmmanuelVG/Neurofuzzy/blob/main/Result%20Images/P1_I2.png" style="width: 40%; height: auto;">
-</div>
+<h3>Results:</h3>
+<p align="center">            
+  <img src="https://github.com/JoseEmmanuelVG/Neurofuzzy/blob/main/Result%20Images/P1_I1.png" width="400" height="300">
+  <img src="https://github.com/JoseEmmanuelVG/Neurofuzzy/blob/main/Result%20Images/P1_I2.png" width="400" height="300">
+</p>
 
 
+- ## [P2: Fuzzy Operations](docs/P2.md)
 
-## Practice 2.
-### Fuzzy Operations
-
-<h2>Objective:</h2>
+<h3>Objective:</h3>
 <p>Calculate and graph the operations complement, union, intersection, and Morgan's laws of fuzzy sets in the given universe.</p>
-<h2>Development:</h2>
-<ol>
-  <li>It is very important to be introduced to the subject to understand the concepts and rules of the basic operations of fuzzy sets.</li>
-  <li>Later it was very helpful for me to know Zadeh's theorems to see the different ways in which the operations could be approached.</li>
-  <li>Once contextualized, the coding begins by assigning the value of the variables (fuzzy sets), the universe and the corresponding operations. </li>
-  <li>Subsequently, the results of each operation are plotted, following the given instructions.</li>
-  <li>It is compared if the results obtained are practically coherent with the theoretical part, both analytically and visually.</li>
-</ol>
-<h2>Results:</h2>
-<div style="text-align: center;">  
-  <img src="https://github.com/JoseEmmanuelVG/Neurofuzzy/blob/main/Result%20Images/P2_I1.png" style="width: 90%; height: auto;">
-</div>
+<h3>Results:</h3>
+<p align="center">            
+  <img src="https://github.com/JoseEmmanuelVG/Neurofuzzy/blob/main/Result%20Images/P2_I1.png" width="500" height="300">
+</p>
+
+
+
+
+
+
+<details>
+  <summary>🌟 Did you find any repository useful?</summary>
+  If any project has been helpful to you, consider giving it a ⭐ star in the repository and follow my GitHub account to stay tuned for future updates! 🚀
+
+  In addition, I am always open to suggestions, recommendations or collaborations. Feel free to [get in touch](https://www.linkedin.com/in/vazquez-galan-jose-emmanuel-664968221) if you have any questions or ideas for improving this project. I'm excited for your feedback and contributions.
+
+  Thank you for your interest and support! 😊
+</details>
+
+
+
+
+
+
 
 <p align="center">
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
